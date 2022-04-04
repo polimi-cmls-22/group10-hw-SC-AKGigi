@@ -1,8 +1,15 @@
 # WoodGrains
+
+<em> Group 10 - AKGigi </em>
+
 ## General informations
 WoodGrains is a project we developed using SuperCollider for homework #1 of Computer Music Languages and Systems. The main task of the project was to recreate foley sounds of the luthier's lab by means of granular synthesis. We use GrainBuf class to perform this process. The source track used for the implementation of the granular synthesis is the famous Cello Suite No. 1 in G Major by J. S. Bach.
-____
+
+___
+
+## Folder structure
 In the GitHub repository you will find four folders:<br>
+
 1. font
 2. images
 3. sample
@@ -11,6 +18,7 @@ In the GitHub repository you will find four folders:<br>
 In the font folder there is the fonts used in the GUI. If they are not present in your OS, please install them.
 
 In the src folder you will find the SuperCollider code.
+
 ___
 
 ## GUI instructions
@@ -27,6 +35,19 @@ envelope.<br>
 - <b>Hammer</b>: rate, the duration of the grain and pos.<br>
 - <b>Pizzicato</b>: the note, the frequency of the tremolo and pos.
 
-For more detailed informations, please check the report we wrote. 
+___
 
-Please use your headphones for an enhanced experience.
+## Notes
+
+Please use your headphones for an enhanced experience. <br>
+For more detailed informations, please check the [report](https://github.com/polimi-cmls-22/group10-hw-SC-AKGigi/blob/main/Report_WoodGrains.pdf) we wrote.
+
+___
+
+## Group Components
+
+- Riccardo Alfieri (riccardo.alfieri@mail.polimi.it)
+- Riccardo Iaccarino (riccardo.iaccarino@mail.polimi.it)
+- Manuele Montrasio (manuele.montrasio@mail.polimi.it)
+- Silvio Sgotto (silvio.sgotto@mail.polimi.it)
+- Francesco Veronesi (francesco.veronesi@mail.polimi.it)
