@@ -50,4 +50,4 @@ ___
 - Riccardo Iaccarino (riccardo.iaccarino@mail.polimi.it)
 - Manuele Montrasio (manuele.montrasio@mail.polimi.it)
 - Silvio Sgotto (silvio.sgotto@mail.polimi.it)
-- Francesco Veronesi (francesco.veronesi@mail.polimi.it)
+- Francesco Veronesi (francesco2.veronesi@mail.polimi.it)
